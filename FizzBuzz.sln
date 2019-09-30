@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.89
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{7677FC44-6EB6-4801-9298-3C10E309F598}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A3E42A5C-46A0-4F2D-96A5-3F36BF3AB19A}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.txt = ReadMe.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7677FC44-6EB6-4801-9298-3C10E309F598}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7677FC44-6EB6-4801-9298-3C10E309F598}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7677FC44-6EB6-4801-9298-3C10E309F598}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7677FC44-6EB6-4801-9298-3C10E309F598}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C5C778F-DA67-437A-84F5-3566153AEDA6}
+	EndGlobalSection
+EndGlobal
